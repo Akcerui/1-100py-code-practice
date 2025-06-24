@@ -1,2 +1,2 @@
-# 1-100-py-course-code-practice
+# 1-100python-course-code-practice
 It's just a simple personal practice......
